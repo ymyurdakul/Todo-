@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { 
+    margin: 0; font-family: 
+    Roboto, "Helvetica Neue", 
+    sans-serif; 
+ 
+    
+}
+.bg-gray{
+    background-color: #f3f3f3;
+}
+.page{
+    padding: 50px 0px;
+}
+.todoInput{
+    width: 70%;
+    margin-right: 10px;
+}
+.mainform{
+    display:flex !important ;
+    justify-content: space-around !important ;
+}
+#btnAdd{
+    height: 40px;
+}
